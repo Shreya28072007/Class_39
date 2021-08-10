@@ -1,1 +1,2 @@
-# Class_39
+# synchronousBallMovement
+Ball moving synchronously
